@@ -684,8 +684,14 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
+
+/* début modif */
+em, .col-sm-4 p{
+    color: black;
+}
+/* fin modif */
 
 .tight-width-whitespace {
     max-width: 600px;
