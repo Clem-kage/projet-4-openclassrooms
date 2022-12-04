@@ -1053,6 +1053,13 @@ em span{
         width: 180px;
         height: 320px;
     }
+
+     /*  début modif */
+
+    #bloc-4-portfolio img{
+        width: 100%
+    } 
+    /*  fin modif */
 }
 
 @media (max-width: 400px) {
