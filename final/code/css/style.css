@@ -938,10 +938,14 @@ em span{
     h4,
     h5,
     h6,
+    strong,
     p,
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
+    }
+    strong{
+        margin-left: 40%;
     }
     .b-parallax {
         background-attachment: scroll;
