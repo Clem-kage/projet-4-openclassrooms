@@ -944,9 +944,11 @@ em span{
         padding-left: 10px!important;
         padding-right: 10px!important;
     }
+    /* début modif */
     strong{
         margin-left: 40%;
     }
+    /* fin modif */
     .b-parallax {
         background-attachment: scroll;
     }
